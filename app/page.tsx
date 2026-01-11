@@ -55,8 +55,7 @@ export default function Home() {
                   A fully versatile dynamic spreadsheet complete with financing, fixed and variable cost, total hourly cost breakdowns and much more. This spreadsheet is great for any hobbyist looking to dive deeper into Cirrus ownership or maybe you are ready to buy a Cirrus yourself. This sheet is packed with all the essential Cirrus information you need, meticulously organized and easy to use. This spreadsheet is complete with the assumptions used for Cirrus N374RL.
                 </p>
                 <div className="flex items-center gap-3 mb-6">
-                  <span className="text-gray-400 line-through text-lg">$14.99</span>
-                  <span className="text-3xl font-bold text-green-600">$9.99</span>
+                  <span className="text-3xl font-bold text-gray-900">$14.99</span>
                 </div>
                 <a
                   href="https://buy.stripe.com/4gM14n4MlgEidCz5tr7AI00"
