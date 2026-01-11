@@ -59,7 +59,7 @@ export default function Home() {
                   <span className="text-3xl font-bold text-green-600">$9.99</span>
                 </div>
                 <a
-                  href="#"
+                  href="https://buy.stripe.com/4gM14n4MlgEidCz5tr7AI00"
                   className="block w-full bg-blue-600 hover:bg-blue-700 text-white font-semibold py-4 px-6 rounded-lg text-center transition-colors shadow-md hover:shadow-lg"
                 >
                   Download Now
@@ -89,7 +89,7 @@ export default function Home() {
                   <span className="text-3xl font-bold text-green-600">$9.99</span>
                 </div>
                 <a
-                  href="#"
+                  href="https://buy.stripe.com/6oU8wPbaJ0Fk9mjg857AI01"
                   className="block w-full bg-blue-600 hover:bg-blue-700 text-white font-semibold py-4 px-6 rounded-lg text-center transition-colors shadow-md hover:shadow-lg"
                 >
                   Download Now
