@@ -2,6 +2,8 @@
 
 A clean, single-page website for selling Excel business plan tools for aviation enthusiasts.
 
+**Live site:** https://southland-aerials.vercel.app
+
 ## Features
 
 - Circular profile photo at the top
